@@ -17,7 +17,7 @@ GOROOT_BOOTSTRAP=/usr ./make.bash
 cd ~
 #git clone https://github.com/golang/go.git
 #wget https://storage.googleapis.com/golang/go1.8.src.tar.gz
-#wget -c -O https://codeload.github.com/golang/go/tar.gz/go1.9.4
+#wget -c -O go1.9.4.src.tar.gz https://codeload.github.com/golang/go/tar.gz/go1.9.4
 wget -c https://storage.googleapis.com/golang/go1.9.4.src.tar.gz
 
 tar -zxf go1.9.4.src.tar.gz
