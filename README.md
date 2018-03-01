@@ -1,0 +1,2 @@
+# myubuntuCfg
+ubuntu environment configuration.
